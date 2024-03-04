@@ -209,5 +209,5 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         pdf_directory = sys.argv[1]
     else:
-        pdf_directory = "workspace"  # Default directory
+        pdf_directory = "workspace/docs"  # Default directory
     process_pdfs_in_directory(pdf_directory)
