@@ -41,9 +41,6 @@ This project is licensed under the [MIT License](LICENSE).
 - PyMuPDF for PDF processing capabilities.
 - Contributors who participate in the development of this tool.
 
-## Contact
-For queries or further information, please contact at [your-email@example.com].
-
 ## Version History
 - 1.0
     - Initial Release
