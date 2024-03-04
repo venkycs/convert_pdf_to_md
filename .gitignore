@@ -1,0 +1,10 @@
+readme.txt
+bin/
+include/
+lib/
+workspace/
+.DS_Store
+process_pdfs.log
+processed_files.log
+pyvenv.cfg
+*.log
